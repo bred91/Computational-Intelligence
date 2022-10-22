@@ -10,6 +10,6 @@ Lab 1: Set Covering
 ### Week 4
 Peer Review of Lab 1
 - [professor's choice](https://github.com/ricanicida/computational-intelligence-22/issues/1#issue-1416811935)
-- [my choice]()
+- [my choice](https://github.com/marcopra/computational_intellligence_22_23_294815/issues/2#issue-1419233615)
 
 ### Week 5
