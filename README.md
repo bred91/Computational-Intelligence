@@ -1,11 +1,14 @@
 # Computational Intelligence 2022-2023
 Repository by Raffaele Pane for the Computational Intelligence course 2022-2023
 
+## Python background
+I started this course with a basic knowledge of the Python language.<br>
+I knew the essentials of the language and had minimal experience with some libraries for Data Science and Machine Learning.
 
 ## Diary
 
 ### Week 3
-Lab 1: Set Covering
+Lab 1: Set Covering   [link](https://github.com/bred91/Computational_Intelligence_2022-2023/tree/main/lab1)
 
 ### Week 4
 Peer Review of Lab 1
