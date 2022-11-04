@@ -10,4 +10,8 @@ For N equal:
 
 For higher Ns, my configuration was unable to run it.
 
+### What's next
 A further improvement could be to try to implement some king of optimizations, like Python Generators (I am quite new to the topic).
+
+NB: the code is partially inspired by the one developed by Prof Squillero.
+<div dir="rtl"> Raffaele Pane </div>
