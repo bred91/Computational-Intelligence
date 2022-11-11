@@ -29,5 +29,8 @@ I will catch up with the lessons as soon as possible!
 ### Week 6
 Lab 2: Set Covering (with GA)  [link](https://github.com/bred91/Computational_Intelligence_2022-2023/tree/main/lab2)
 
+### Week 7
+Peer Review of Lab 2
+- [my choice](https://github.com/md131376st/computational-intelligen-2022/issues/3#issue-1445751115)
 
 <div dir="rtl"> Raffaele Pane </div>
