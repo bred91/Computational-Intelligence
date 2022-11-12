@@ -31,6 +31,7 @@ Lab 2: Set Covering (with GA)  [link](https://github.com/bred91/Computational_In
 
 ### Week 7
 Peer Review of Lab 2
-- [my choice](https://github.com/md131376st/computational-intelligen-2022/issues/3#issue-1445751115)
+- [review 1](https://github.com/md131376st/computational-intelligen-2022/issues/3#issue-1445751115)
+- [review 2](https://github.com/tonatiu92/Computational-Intelligence-CI-2022-01URROV-s307107/issues/3#issue-1446517772)
 
 <div dir="rtl"> Raffaele Pane </div>
