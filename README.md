@@ -34,4 +34,12 @@ Peer Review of Lab 2
 - [review 1](https://github.com/md131376st/computational-intelligen-2022/issues/3#issue-1445751115)
 - [review 2](https://github.com/tonatiu92/Computational-Intelligence-CI-2022-01URROV-s307107/issues/3#issue-1446517772)
 
+### Week 8
+I had some time to catch up on things and do some experiments.
+
+I wrote an improved version of the Lab 2 algorithm, in which I added and tried things that I had not been able to write before due to lack of time. [link](https://github.com/bred91/Computational_Intelligence_2022-2023/blob/main/lab2/Lab_2_upgraded.ipynb)
+
+I also wrote the code for both the Sphere and the Rastrigin problem. [link](https://github.com/bred91/Computational_Intelligence_2022-2023/tree/main/Hill%20Climbing)
+
+<br><br><br>
 <div dir="rtl"> Raffaele Pane </div>
