@@ -44,6 +44,6 @@ Ideally, given enough time, one could think of performing a sort of Grid Search,
 Surely I should replace the use of lists for genes with tuples, perhaps even constructing the sort of bitmap I saw some colleagues use during their presentation.
 
 
-
+<br><br><br>
 NB: the code is partially inspired by the one developed by Prof Squillero.
 <div dir="rtl"> Raffaele Pane </div>
