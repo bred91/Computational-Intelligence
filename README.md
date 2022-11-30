@@ -41,8 +41,10 @@ I wrote an improved version of the Lab 2 algorithm, in which I added and tried t
 
 I also wrote the code for both the Sphere and the Rastrigin problem. [link](https://github.com/bred91/Computational_Intelligence_2022-2023/tree/main/Hill%20Climbing)
 
-### Week 9
-Started the work on lab 3 (task 1 and 3, done)
+### Week 9 / 10
+Started the work on lab 3 (task 1, 2 and 3, done) [link](https://github.com/bred91/Computational_Intelligence_2022-2023/tree/main/lab3)
+
+Note: since I wrote a big part of the solution before the changes made by the professor, there are some things a bit different from the expected ones.
 
 <br><br><br>
 <div dir="rtl"> Raffaele Pane </div>
