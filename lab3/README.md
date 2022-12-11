@@ -4,8 +4,8 @@ In this third lab, the aim is to create some agents capable of playing Nim.
 NOTE: 
 >since I wrote most of the code before the professor's specifications about the testing and the rules, there are some things that are a bit different from the expected ones. For example, I wrote some cells in which a human can play with the agent! ;D
 
-Task 3.1 , 3.2 and 3.3 are all made in weeks 9/10, so before december 4th.
-Task 3.4 was made in week 11, so before december 12th
+Task 3.1 , 3.2 and 3.3 are all made in weeks 9/10, so before december 4th.<br>
+Task 3.4 was made in week 11, so before december 12th.
 <br><br>
 
 
@@ -30,7 +30,7 @@ In both cases, the algorithm will be unbeatable! :(
 
 ### Task 4.4: An agent using reinforcement learning
 For this task I trained 2 agents using a Q-learning approch, one against a random player, the other against minsum (optimal).
-In both cases the agent was capable to learn how to beat the adversarial and win a good rate of matches (>95%)
+In both cases the agent was capable to learn how to beat the adversarial and win a good rate of matches (>95%).
 ![image](https://user-images.githubusercontent.com/58046025/206915904-775c2278-8f1e-42b8-bd7a-6ad52f187e2b.png)
 
 VS Random - **97 %**<br>
