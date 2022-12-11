@@ -29,3 +29,21 @@ In this task, I developed two versions of Minmax: (a) a Vanilla version, which i
 In both cases, the algorithm will be unbeatable! :(
 
 ### Task 4.4: An agent using reinforcement learning
+For this task I trained 2 agents using a Q-learning approch, one against a random player, the other against minsum (optimal).
+In both cases the agent was capable to learn how to beat the adversarial and win a good rate of matches (>95%)
+![image](https://user-images.githubusercontent.com/58046025/206915904-775c2278-8f1e-42b8-bd7a-6ad52f187e2b.png)
+
+VS Random - **97 %**<br>
+![image](https://user-images.githubusercontent.com/58046025/206916026-eb0863b3-cf60-4598-8710-2e5507f18320.png)
+
+VS Optimal - **97 %**<br>
+![image](https://user-images.githubusercontent.com/58046025/206916044-98eff11a-955c-4975-a0bb-df39bb07f05d.png)
+
+Obviously, there is room for improvements. 
+I implemented several parametes, but for lack of time I used them in a fixed way. Probably, playing a little bit with them, and changing them during the epochs, will lead to better results.
+
+Note:
+In a couple of occations I was stuck and I took ispiration from this code made by the user [abelmariam](https://github.com/abelmariam/nimPy)
+
+<br><br><br>
+<div dir="rtl"> Raffaele Pane </div>
