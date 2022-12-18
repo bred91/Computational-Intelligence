@@ -50,6 +50,10 @@ Note: since I wrote a big part of the solution before the changes made by the pr
 Task 4 of lab 3 completed!!! :fire: [link](https://github.com/bred91/Computational_Intelligence_2022-2023/tree/main/lab3)<br>
 This one was really tough!
 
+### Week 12
+Peer Review of Lab 3
+- [review 1](https://github.com/francescofiorella/computational_intelligence_2022_2023/issues/6#issue-1501476144)
+- [review 2](https://github.com/drustthecoder/CI/issues/7#issue-1501860764)
 
 <br><br><br>
 <div dir="rtl"> Raffaele Pane </div>
