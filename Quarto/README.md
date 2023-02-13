@@ -2,7 +2,7 @@
 In this branch there is my final project of the Computational Intelligence 2022/2023 course.<br>
 The aim is to write an agent that can play (and possibly be very strong) in playing the game Quarto.
 
-To achieve this, I developed an agent based mainly on the MinMax algorithm, with Alpha-Beta Pruning and maximum depth.
+To achieve this, I developed an agent based mainly on the MinMax algorithm, with Alpha-Beta Pruning and maximum depth.<br>
 In order to optimise performance, making it faster in choices and stronger in game skills, I also applied some customisations, such as:
 - variable maximum depth
 - fixed rules
@@ -11,7 +11,7 @@ In order to optimise performance, making it faster in choices and stronger in ga
 - not symmetric parameters 
 
 <br>
-With these additions, the agent is able to win an average of **98%** of the matches, with a fluctuation of +/- 2%. <br>
+With these additions, the agent is able to win an average of 98% of the matches, with a fluctuation of +/- 2%. <br>
 It tends to be able to finish a match in less than a second, with a maximum decision time for a single round of 5 seconds (although it very rarely reaches that point).
 These statistics were collected by running a group of 100 matches 10 times (so, a total of 1000 matches). In one half the agent was the first player, in the other the second. The opponent for these tests has always been the random agent, but in general it has also been tried against humans and simple rule-based agents.<br>
 
