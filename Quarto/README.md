@@ -27,7 +27,7 @@ Of course, there is still room for improvement. Below are some ideas that I have
 -	Code Optimization
 
 <br>
-For more details, I recommend you take a look at the report I compiled, where I explain everything thoroughly. <br>
+For more details, I recommend you take a look at the report I compiled, where I explain everything thoroughly. <br><br>
 
 Note: in the [discarded agents](https://github.com/bred91/Computational_Intelligence_2022-2023/tree/main/Quarto/discarded%20agents) directory there is the RL agent that I developed, but at the end discarded. I uploaded it just for reference.
 
