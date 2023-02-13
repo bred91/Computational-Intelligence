@@ -11,7 +11,7 @@ In order to optimise performance, making it faster in choices and stronger in ga
 - not symmetric parameters 
 
 <br>
-With these additions, the agent is able to win an average of 98% of the matches, with a fluctuation of +/- 2%. <br>
+With these additions, the agent is able to win an average of **98%** of the matches, with a fluctuation of +/- 2%. <br>
 It tends to be able to finish a match in less than a second, with a maximum decision time for a single round of 5 seconds (although it very rarely reaches that point).
 These statistics were collected by running a group of 100 matches 10 times (so, a total of 1000 matches). In one half the agent was the first player, in the other the second. The opponent for these tests has always been the random agent, but in general it has also been tried against humans and simple rule-based agents.<br>
 
