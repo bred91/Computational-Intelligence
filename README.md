@@ -55,5 +55,13 @@ Peer Review of Lab 3
 - [review 1](https://github.com/francescofiorella/computational_intelligence_2022_2023/issues/6#issue-1501476144)
 - [review 2](https://github.com/drustthecoder/CI/issues/7#issue-1501860764)
 
+### January
+I made the main part of the implementation of the agent for the final project.
+In this time I also started to write part of the report.
+
+### February
+I finished the final agent and report.
+
+
 <br><br><br>
 <div dir="rtl"> Raffaele Pane </div>
